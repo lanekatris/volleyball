@@ -4,6 +4,8 @@ layout: ../layouts/default.astro
 
 # League: Parkersburg
 
+![Spike overflow logo](./spike-overflow.png)
+
 <article>
 
 **Season**: Winter 2025
