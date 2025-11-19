@@ -17,7 +17,7 @@ This is our second season playing in this league. Below is our game history.
 
 # Games 
 
-> [!NOTE] : 73% Win Percentage - 17 of 23 won
+> 73% Win Percentage - 17 of 23 won
 > (44% last season)
 
 
@@ -31,5 +31,5 @@ This is our second season playing in this league. Below is our game history.
 | 2025-11-03 8pm | We Showed Up     | 0–3      | N/A                                                    | Gran Ranchero |
 | 2025-11-04 6pm | Can You Dig It   | 3–0      | [Youtube](https://youtu.be/ynC-RBhkFdA)                | Cheddars      |
 | 2025-11-11 6pm | League Splitters | 2–0      |                                                  [Youtube](https://youtu.be/QC79F_Hy2qU)      | Tokyo         |
-| 2025-11-17 8pm |                     |          |                                                        |               |
+| 2025-11-17 8pm | We Showed Up                    |  0-2        |    [Youtube](https://youtu.be/2j0hbBhIrMc)             |   Firehouse            |
 
