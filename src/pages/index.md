@@ -4,7 +4,7 @@ layout: ../layouts/default.astro
 # WV Volleyball
 
 We have 2 leagues we play in:
-1. Ripley League
+1. [Ripley League](ripley)
 2. [Parkersburg League](parkersburg)
 
 Some team name ideas:

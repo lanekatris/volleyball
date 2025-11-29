@@ -10,5 +10,8 @@
   },
   "dependencies": {
     "astro": "^5.15.8"
+  },
+  "devDependencies": {
+    "wrangler": "^4.51.0"
   }
 }
