@@ -1,10 +1,12 @@
 ---
-layout: ../layouts/default.astro
+layout: ../../layouts/default.astro
 ---
 
-# League: Parkersburg
+# Parkersburg League
 
-![Spike overflow logo](./spike-overflow.png)
+![Spike overflow logo](../spike-overflow.png)
+
+### Winter 2025 Games 
 
 <article>
 
@@ -17,10 +19,6 @@ This is our second season playing in this league. Below is our game history.
 </article>
 
 
-# Games 
-
-> 73% Win Percentage - 17 of 23 won
-> (44% last season)
 
 
 | Date           | Opponent            | Win/Loss | Video                                                  | Dinner        |
@@ -35,3 +33,38 @@ This is our second season playing in this league. Below is our game history.
 | 2025-11-11 6pm | League Splitters | 2–0      |                                                  [Youtube](https://youtu.be/QC79F_Hy2qU)      | Tokyo         |
 | 2025-11-17 8pm | We Showed Up                    |  0-2        |    [Youtube](https://youtu.be/2j0hbBhIrMc)             |   Firehouse            |
 
+
+> 73% Win Percentage - 17 of 23 won
+> (44% last season)
+
+
+### Spring 2025 Games
+
+<article>
+
+**Season**: Spring 2025
+
+**Team Name**: Always In
+
+This was our first season. We didn't know all the rules.
+
+</article>
+
+
+
+| Date | Opponent | Win/Loss |  Dinner |
+| :--- | :--- | :--- | :--- |
+| 2025-01-27 6pm |  We Showed Up | 1-2  | Gran Ranchero |
+| 2025-01-27 7pm |  Prime Time | 1-2  | Gran Ranchero |
+| 2025-02-11 6pm |  Perry & Associates | 1-2  | Cheddars |
+| 2025-02-25 7pm |  South Parkersburg Baptist Church | 1-2  | Buffalo Wild Wings |
+| 2025-02-25 8pm |  League Splitters | 2-1  | Buffalo Wild Wings |
+| 2025-03-04 6pm |  Prime Time | 1-2  |  |
+| 2025-03-11 6pm |  We Showed Up | 1-2 | Star of India |
+| 2025-03-25 6pm |  South Parkersburg Baptist Church | 3-0 |  Tokyo |
+| 2025-03-25 7pm |  Perry & Associates | 2-1 |  Tokyo |
+| 2025-04-08 7pm |  Prime Time | 1-2  | Tokyo |
+
+
+
+> 44% Win Percentage - 14 of 30 won
