@@ -6,6 +6,24 @@ layout: ../../layouts/default.astro
 
 ![Spike overflow logo](../spike-overflow.png)
 
+### Spring 2026 Games
+
+<article>
+
+**Season**: Spring 2026
+
+**Team Name**: Spikeoverflow
+
+Coming soon.
+
+</article>
+
+
+
+| Date           | Opponent            | Win/Loss | Video                                                  | Dinner        |
+| -------------- | ------------------- | -------- | ------------------------------------------------------ | ------------- |
+
+
 ### Winter 2025 Games 
 
 <article>
